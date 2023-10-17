@@ -6,4 +6,4 @@ Projeto simples de extração de Dados de itens de supermercados,Com o intuito d
 
 
 ## Referência
-- Desafio Do Bootcamp Santander 202 - Criando Um ETL com Python.
+- Criando Um ETL com Python.
